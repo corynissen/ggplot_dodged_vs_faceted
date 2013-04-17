@@ -6,3 +6,6 @@
 
 # emacs backup files
 *.R~
+
+# .gitignore backup
+.gitignore~
