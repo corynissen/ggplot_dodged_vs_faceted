@@ -9,3 +9,8 @@
 
 # .gitignore backup
 .gitignore~
+
+*.html
+*.md
+.Rproj.user
+*.Rproj
